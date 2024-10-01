@@ -1,4 +1,4 @@
-#!/home/polyana.albanaz/Documentos/DJango/virtenv/bin/python3
+#!/home/polyana.albanaz/DJango/virtenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
